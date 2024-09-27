@@ -96,8 +96,8 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hola, bienvenidos a mi web!',
-        text: "Soy Dayana, <b>abogada</b> con especialización en Derecho Administrativo, apasionada por la intersección entre la lectura jurídica y la tecnología aplicada al Derecho. Mi compromiso, capacidad de adaptación y deseo de aportar de manera continua a mi entorno me impulsan a buscar soluciones innovadoras dentro de este campo. Con una firme convicción en la importancia de la evolución tecnológica en el ámbito legal, busco contribuir activamente al desarrollo de prácticas más eficientes y accesibles.",
+        title: 'Hola, bienvenidos a el rincon del Panda!',
+        text: "Soy Dayana, <b>abogada</b> con especialización en <i>Derecho Administrativo</i>, apasionada por la intersección entre la lectura jurídica y la tecnología aplicada al Derecho. Mi compromiso, capacidad de adaptación y deseo de aportar de manera continua a mi entorno me impulsan a buscar soluciones innovadoras dentro de este campo. Con una firme convicción en la importancia de la evolución tecnológica en el ámbito legal, busco contribuir activamente al desarrollo de prácticas más eficientes y accesibles.",
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
