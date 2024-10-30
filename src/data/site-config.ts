@@ -39,8 +39,8 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Dayana Erazo',
-    subtitle: 'Abogada especialista',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    subtitle: 'Abogada',
+    description: 'Especialista en Derecho Administrativo - Universidad de Nariño',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
@@ -65,55 +65,43 @@ const siteConfig: SiteConfig = {
     ],
     footerNavLinks: [
         {
-            text: 'About',
+            text: '¿ Quién soy ?',
             href: '/about'
         },
         {
-            text: 'Contact',
+            text: 'Contactos',
             href: '/contact'
         },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
-        }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'Gmail',
+            href: 'mailto:dayaerazo.17@gmail.com?subject=Reunion%20con%20abogada%20Dayana%20motivo%20de:&body=Requiero%20los%20servicios%20profesionales%20de%20Dayana%20para%20:'
         },
         {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
+            text: 'WhatsApp',
+            href: 'https://wa.me/573188545404?text=Hola%20Dayana,%20me%20gustaría%20consultar%20sobre%20tus%20servicios%20profesionales.'
         },
         {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
-        }
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/dayana-erazo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
+        },
     ],
     hero: {
-        title: 'Hola, bienvenidos a el rincon del Panda!',
-        text: "Soy Dayana, <b>abogada</b> con especialización en <i>Derecho Administrativo</i>, apasionada por la intersección entre la lectura jurídica y la tecnología aplicada al Derecho. Mi compromiso, capacidad de adaptación y deseo de aportar de manera continua a mi entorno me impulsan a buscar soluciones innovadoras dentro de este campo. Con una firme convicción en la importancia de la evolución tecnológica en el ámbito legal, busco contribuir activamente al desarrollo de prácticas más eficientes y accesibles.",
+        title: 'El derecho es el escudo de la sociedad, y una buena abogada, la espada que defiende la justicia.',
+        text: "Con una sólida formación en leyes y experiencia en la aplicación de normas administrativas, me especializo en integrar tecnología en el ámbito jurídico. Mi pasión por el <b><i>análisis normativo</b></i> me impulsa a abordar cada caso con precisión y creatividad. He asesorado en <b><i> procesos administrativos</b></i>, liderado <b><i>contrataciones</b></i>, y fortalecido relaciones con <b><i>entidades gubernamentales</b></i>, buscando siempre soluciones legales que aporten valor estratégico.",
         image: {
             src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+            alt: 'Fotografia Dayana'
         },
         actions: [
             {
-                text: 'Ponte en contacto',
+                text: 'Contáctame',
                 href: '/contact'
             }
         ]
     },
-    subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        formUrl: '#'
-    },
+    
     postsPerPage: 8,
     projectsPerPage: 8
 };

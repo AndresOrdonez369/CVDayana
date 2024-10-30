@@ -1,49 +1,45 @@
 ---
-title: About
+title: Sobre mí
 seo:
-  title: About Me
-  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
+  title: Sobre Dayana Erazo
+  description: Conoce a Dayana Erazo, una abogada dedicada al Derecho Administrativo y apasionada por los derechos humanos y la tecnología aplicada al Derecho.
   image:
-    src: '/about.jpeg'
-    alt: A person sitting at a desk in front of a computer
+    src: '../image.jpg'
+    alt: Una abogada
 ---
 
-![Alt text for image](/about.jpeg)
+![Imagen representativa de Dayana Erazo](/image.jpg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Dayana Erazo - Abogada Especializada en Derecho Administrativo
 
-## Ethan Donovan - Web Developer based in Estonia
+**Saludos** Soy Dayana Erazo, abogada con especialización en Derecho Administrativo, **apasionada** por los derechos humanos y la tecnología aplicada al ámbito legal. Cuento con una sólida formación académica y amplia experiencia en el asesoramiento y representación legal en procesos administrativos, contratación y relaciones con entidades gubernamentales. Me esfuerzo constantemente por contribuir de manera positiva a mi entorno profesional y social.
 
-**Greetings!** Abogada, con especialización en 
-Derecho Administrativo, apasionada 
-por la lectura jurídica y la tecnologia al 
-servicio del Derecho. Con capacidad 
-de compromiso, facilidad de 
-adaptación y ánimo de aportar 
-continuamente a mi entorno. 
+## Habilidades y Áreas de Experiencia
 
-## Skills and Expertise
+Mi experiencia abarca diversas áreas del Derecho Administrativo, donde aplico conocimientos especializados en:
+- **Análisis y asesoría jurídica** para procesos administrativos complejos.
+- **Interpretación normativa** en casos específicos, proporcionando soluciones eficaces y bien fundamentadas.
+- **Relaciones con entidades gubernamentales** y gestión de contratos.
+- **Derechos Humanos** como pilar de mi práctica, guiando un enfoque de justicia y ética.
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+## Innovación y Solución de Problemas
 
-## Innovation and Problem-Solving
+Me apasiona encontrar soluciones creativas y efectivas para los retos legales de cada cliente. Mi enfoque es siempre ofrecer asesoría de alta calidad, que combine tanto el rigor jurídico como la eficiencia. Disfruto resolver problemas legales de manera rápida y organizada, brindando siempre una interpretación normativa que aporte valor a cada caso.
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+## Enfoque Global, Impacto Local
 
-## Global Perspective, Local Impact
+Mi enfoque en el Derecho Administrativo va más allá del marco legal: me motiva generar un impacto positivo en la sociedad a través de soluciones que tengan relevancia tanto local como global. Con un compromiso claro hacia los derechos humanos, busco que mi labor profesional aporte un cambio significativo.
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+## Aprendizaje Continuo
 
-## Continuous Learning
+El Derecho es un campo en constante evolución, y me esfuerzo por mantenerme actualizada en cuanto a las últimas leyes y regulaciones, así como en la tecnología aplicada al ámbito legal. Este enfoque me permite ofrecer un servicio que no solo es efectivo, sino que está a la vanguardia en términos de innovación y eficiencia.
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+## Colaboración y Comunicación
 
-## Collaboration and Communication
+Creo firmemente en el poder de la colaboración y la comunicación efectiva. Al trabajar con mis colegas, clientes y entidades gubernamentales, mantengo siempre una comunicación clara y abierta para asegurar que todos los involucrados estén alineados y comprometidos con los objetivos de cada proyecto.
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+## Contacto
 
-## Get in Touch
+¿Buscas asesoría en Derecho Administrativo o deseas explorar la tecnología aplicada al Derecho? Me encantaría escucharte. No dudes en contactarme para colaborar, asesorarte o simplemente intercambiar ideas sobre cómo el Derecho y la tecnología pueden trabajar juntos para crear un futuro mejor.
 
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
-
-_Let's build something amazing together!_
+_Construyamos juntos soluciones innovadoras y justas._

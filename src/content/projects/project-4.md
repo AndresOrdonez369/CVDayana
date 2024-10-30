@@ -1,61 +1,40 @@
 ---
-title: 'NeuralPlaylist - AI Generated Music Recommendations'
-description: Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
-publishDate: 'Oct 19 2023'
-seo:
-  image:
-    src: '/project-4.jpg'
+title: 'Abogada en CEHANI ESE'
+description: Como abogada en CEHANI ESE, participé en la elaboración de actas de liquidación y la organización de la base de datos de contratistas del Plan de Intervenciones Colectivas (PIC).
+publishDate: 'Nov 2021'
+
 ---
 
-![Project preview](/project-4.jpg)
+## Mi Rol como Abogada en CEHANI ESE
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+**Noviembre 2021 – Diciembre 2021**
 
-**Project Overview:**
-NeuralPlaylist is a cutting-edge web application that redefines music discovery through the power of artificial intelligence. Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
+Durante mi tiempo como **abogada en CEHANI ESE**, tuve la responsabilidad de gestionar procesos relacionados con el **Plan de Intervenciones Colectivas (PIC)**, específicamente en la **elaboración de actas de liquidación de contratistas** y la **organización de la base de datos de contratistas**. Esta experiencia me permitió fortalecer mis habilidades en la gestión de contratos y la documentación legal, así como en el manejo de información clave para la entidad.
 
-## Objectives
+## Responsabilidades y Logros
 
-1. Develop an intuitive and user-friendly web application that utilizes AI to curate personalized music playlists for users.
-2. Implement machine learning models that analyze user behavior, preferences, and physiological responses to create dynamic and context-aware music recommendations.
-3. Provide an immersive and interactive platform that enhances the music listening experience and introduces users to new genres and artists.
+Entre mis principales tareas se encontraban:
 
-## Features
+- **Elaboración de actas de liquidación de contratistas** del Plan de Intervenciones Colectivas (PIC), asegurando que los términos contractuales se cumplieran y cerrando los acuerdos de manera formal y correcta.
+- **Organización de la base de datos de contratistas**, estructurando y categorizando la información de manera eficiente para facilitar la consulta y seguimiento de los procesos de cada contratista.
 
-1. **Biometric Mood Analysis:**
+## Habilidades y Conocimientos
 
-- NeuralPlaylist incorporates biometric data analysis to understand users' moods and emotional states.
-- The AI algorithms use facial recognition and heart rate data to curate playlists that match users' current emotional states.
+Esta experiencia me brindó la oportunidad de desarrollar y aplicar diversas competencias esenciales en el ámbito jurídico:
 
-2. **Personalized Playlists:**
+1. **Elaboración de Actas Legales:** Perfeccioné mi capacidad para elaborar actas de liquidación, documentando el cumplimiento y cierre de contratos con precisión y en concordancia con la normativa aplicable.
+2. **Gestión de Datos:** Organicé y administré una base de datos de contratistas, asegurando que la información estuviera correctamente estructurada para su fácil acceso y gestión.
+3. **Atención a Detalles Contractuales:** Pude aplicar un enfoque meticuloso en la revisión de los contratos y en el proceso de liquidación, asegurando que todos los aspectos del acuerdo se ejecutaran conforme a lo establecido.
+4. **Eficiencia en el Manejo de Información:** Desarrollé un sistema eficiente para la administración de información, permitiendo un control más organizado de los contratistas y sus respectivos expedientes.
 
-- Users receive dynamic and highly personalized playlists based on their music history, preferences, and contextual factors.
-- NeuralPlaylist adapts to users' evolving tastes, introducing them to new genres and artists that align with their musical journey.
+## Reflexión Personal
 
-3. **Context-Aware Recommendations:**
+Trabajar como abogada en CEHANI ESE fue una experiencia breve pero sumamente enriquecedora. Me permitió aplicar mis conocimientos en la gestión de contratos, y al mismo tiempo aprender a manejar grandes cantidades de información de manera ordenada y eficiente. Esta experiencia reforzó mi capacidad para ejecutar tareas legales con un alto grado de precisión, lo cual es crucial para el éxito en el ámbito del Derecho Administrativo.
 
-- The application takes into account contextual factors such as time of day, weather, and location to tailor music recommendations.
-- Users receive playlists suited for specific occasions, moods, and environments.
+## Contacto
 
-4. **Collaborative Playlists:**
+Si tienes interés en conocer más sobre mi experiencia jurídica o sobre mi capacidad para gestionar proyectos contractuales, no dudes en ponerte en contacto conmigo. Estoy disponible para colaborar en proyectos legales y administrativos que requieran un enfoque riguroso y organizado.
 
-- NeuralPlaylist encourages social interaction by allowing users to create and share collaborative playlists with friends.
-- Friends can contribute to the playlist, creating a shared musical experience that adapts to the collective preferences of the group.
+---
 
-5. **Real-Time Feedback Integration:**
-
-- Users can provide real-time feedback on song selections, allowing the AI to continuously refine recommendations.
-- The system learns from user interactions to enhance the accuracy of future music suggestions.
-
-## Technology Stack
-
-- Frontend: Vue.js for a dynamic and responsive user interface.
-- Backend: Flask for handling server-side logic and API integration.
-- Database: MongoDB for efficient storage and retrieval of user and music data.
-- AI Integration: PyTorch for developing machine learning models for music recommendation and biometric analysis.
-
-## Outcome
-
-NeuralPlaylist has redefined the music listening experience by harnessing the power of AI to provide users with hyper-personalized and context-aware playlists. The application not only adapts to users' musical preferences but also introduces them to new and exciting musical journeys based on their emotions and surroundings.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+_Con mi experiencia en Derecho, estoy lista para contribuir con soluciones jurídicas claras y efectivas._

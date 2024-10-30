@@ -1,61 +1,45 @@
 ---
-title: FitQuest - AR Fitness Adventure Game
-description: This web application encourages users to embark on thrilling adventures, complete challenges, and achieve fitness goals in an engaging virtual environment.
-publishDate: 'Dec 28 2023'
-seo:
-  image:
-    src: '/project-6.jpg'
+title: ' Judicante en el Juzgado Quinto Administrativo del Circuito de Pasto'
+description: Como Judicante en el Juzgado Quinto Administrativo del Circuito de Pasto, realicé estudios de admisión de demandas, análisis de procesos judiciales y proyección de fallos de sentencias.
+publishDate: 'Ene 2020'
+
 ---
 
-![Project preview](/project-6.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
-**Project Overview:**
-FitQuest is an augmented reality (AR) fitness adventure game that revolutionizes traditional workout routines by combining physical exercise with immersive gameplay. This web application encourages users to embark on thrilling adventures, complete challenges, and achieve fitness goals in an engaging virtual environment.
+## Mi Rol como Judicante en el Juzgado Quinto Administrativo del Circuito de Pasto
 
-## Objectives
+**Enero 2020 – Febrero 2021**
 
-1. Develop a fitness app that leverages augmented reality to make workouts more enjoyable and interactive.
-2. Integrate real-world locations and landmarks into the game, turning everyday environments into exciting adventure settings.
-3. Motivate users to stay active and maintain a consistent fitness routine by blending physical activity with a captivating storyline.
+Durante mi tiempo como **judicante** en el **Juzgado Quinto Administrativo del Circuito de Pasto**, tuve la oportunidad de participar activamente en el análisis y gestión de procesos judiciales. Esta experiencia fue fundamental para profundizar mis conocimientos en el funcionamiento del sistema judicial y en la elaboración de decisiones jurídicas.
 
-## Features
+## Responsabilidades y Logros
 
-1. **Augmented Reality Workouts:**
+En mi rol como judicante, me encargué de las siguientes funciones:
 
-- FitQuest utilizes AR technology to overlay game elements onto the real-world environment, creating an immersive and dynamic workout experience.
-- Users engage in exercises that align with the game's storyline while interacting with virtual elements superimposed on their surroundings.
+- **Estudio de admisiones de demandas:** Realicé un análisis exhaustivo de las demandas presentadas, evaluando su admisibilidad conforme a los requisitos legales establecidos, lo que me permitió comprender los criterios de aceptación de casos en el despacho.
+- **Estudio de procesos judiciales:** Participé en el estudio de diversos procesos que cursaron en el despacho, analizando la documentación y el estado de cada caso para facilitar una gestión adecuada y eficiente.
+- **Proyección de fallos de sentencias:** Colaboré en la redacción de fallos, asegurando que se aplicara la normativa y jurisprudencia pertinente, lo que contribuyó a la calidad y rigor de las decisiones judiciales.
+- **Transcripción de testimonios:** Me encargué de la transcripción precisa de los testimonios presentados durante las audiencias, garantizando que se registrara fielmente la información relevante para el caso.
+- **Proyección de audiencias iniciales:** Participé en la preparación y proyección de audiencias iniciales, asegurando que todos los aspectos necesarios estuvieran listos para su correcto desarrollo.
 
-2. **Interactive Storyline and Challenges:**
+## Habilidades y Conocimientos
 
-- The app features an adventure-driven storyline where users embark on quests and missions to complete fitness challenges.
-- Challenges include cardio exercises, strength training, and flexibility workouts, seamlessly integrated into the game's narrative.
+Esta experiencia me permitió adquirir habilidades importantes para mi trayectoria profesional:
 
-3. **Real-World Landmarks Integration:**
+1. **Análisis Jurídico:** Desarrollé un enfoque crítico para analizar demandas y procesos, lo que me ayudó a entender mejor el funcionamiento del sistema judicial.
+2. **Redacción de Fallos:** Aprendí a proyectar fallos de sentencias de manera clara y fundamentada, lo que es esencial en el ejercicio de la profesión.
+3. **Transcripción Eficiente:** Mejoré mis habilidades en la transcripción de testimonios, prestando atención a los detalles y garantizando la precisión de la información.
+4. **Preparación de Audiencias:** Adquirí experiencia en la organización y proyección de audiencias iniciales, fortaleciendo mis capacidades de comunicación y gestión en el entorno judicial.
 
-- FitQuest incorporates real-world landmarks and locations as key elements in the game, turning parks, streets, and other environments into virtual fitness arenas.
-- Users explore these locations while completing fitness challenges and unlocking new levels.
+## Reflexión Personal
 
-4. **Multiplayer Mode and Team Challenges:**
+Ser judicante en el Juzgado Quinto Administrativo del Circuito de Pasto fue una etapa crucial en mi formación profesional. Esta experiencia me brindó una visión integral del proceso judicial y me permitió contribuir de manera activa a la administración de justicia, siempre manteniendo un compromiso con la ética y la responsabilidad.
 
-- Users can connect with friends or join teams to participate in multiplayer challenges.
-- Team-based missions encourage collaboration and friendly competition, enhancing the social aspect of fitness.
+## Contacto
 
-5. **Fitness Tracking and Progress Monitoring:**
+Si deseas saber más sobre mi experiencia en el ámbito judicial o sobre cómo puedo contribuir a procesos administrativos, estaré encantada de conversar. No dudes en ponerte en contacto para discutir posibles colaboraciones o asesorías legales.
 
-- The app includes a comprehensive fitness tracking system that monitors users' progress, calories burned, and achievements.
-- Users can set personalized fitness goals and track their improvement over time.
+---
 
-## Technology Stack
-
-- Frontend: Unity for AR game development.
-- Backend: Node.js for handling server-side logic and real-time data synchronization.
-- Database: MongoDB for storing user profiles, fitness data, and game progress.
-- AR Integration: ARCore (Android) and ARKit (iOS) for augmented reality features.
-
-## Outcome
-
-FitQuest has transformed the fitness landscape by merging physical activity with immersive gaming experiences. Users not only enjoy staying active but also find motivation in the storyline and challenges, creating a unique and entertaining approach to maintaining a healthy lifestyle.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+_A través de mi experiencia jurídica, continúo comprometida en ofrecer soluciones efectivas y justas en el ejercicio del Derecho._

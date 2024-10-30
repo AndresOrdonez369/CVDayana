@@ -1,66 +1,40 @@
 ---
-title: 'EcoBuddy: Sustainable Living App'
-description: EcoBuddy is a mobile app that gamifies sustainable living. Users can set eco-friendly goals, track their carbon footprint, and earn virtual rewards for adopting environmentally conscious habits.
-publishDate: 'Jan 02 2024'
-seo:
-  image:
-    src: '/project-1.jpg'
-    alt: Project preview
+title: 'Asistente Jurídica de Ruth Amalfi Ramírez Muñoz'
+description: Durante mi rol como asistente jurídica de Ruth Amalfi Ramírez Muñoz, brindé apoyo en la representación judicial del Departamento de Nariño y en la asistencia a audiencias en materia Contencioso Administrativo.
+publishDate: 'Feb 2024'
+isFeatured: true
 ---
 
-![Project preview](/project-1.jpg)
+## Mi Experiencia como Asistente Jurídica para proyecto del Departamento de Nariño
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+**Febrero 2024 – Junio 2024**
 
-**Project Overview:**
-EcoBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.
+Durante mi tiempo como asistente jurídica de **Ruth Amalfi Ramírez Muñoz**, tuve la oportunidad de participar en varios procesos jurídicos importantes. Mi rol consistió en brindar apoyo en la representación judicial del **Departamento de Nariño**, asistir en audiencias de asuntos Contencioso Administrativo y elaborar oficios y requerimientos.
 
-## Objectives
+## Responsabilidades y Logros
 
-1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily lives.
-2. Utilize gamification elements to make sustainable living fun and interactive.
-3. Provide educational resources and personalized challenges to empower users to make informed eco-conscious decisions.
+- Apoyé a Ruth en la representación judicial del Departamento, asegurándome de que toda la documentación necesaria estuviera lista y bien preparada.
+- Asistí a audiencias en casos de materia contenciosa administrativa, aprendiendo de primera mano cómo se manejan estos procesos.
+- Me encargué de la elaboración de oficios y otros documentos legales bajo la supervisión de Ruth, contribuyendo a la eficiencia de nuestro trabajo.
+- Realicé un seguimiento detallado y control de los procesos judiciales y extrajudiciales, asegurando que todo estuviera en orden.
 
-## Features
+## Habilidades y Conocimientos
 
-1. **EcoScore and Challenges:**
+Este rol me permitió desarrollar y fortalecer diversas habilidades clave para mi carrera jurídica:
 
-- Users are assigned an EcoScore based on their sustainable activities and choices.
-- Daily and weekly challenges encourage users to adopt new habits and compete with friends or the community to earn EcoPoints.
+1. **Asistencia Jurídica:** Fui parte activa en la representación de clientes y el manejo de casos legales.
+2. **Gestión de Procesos Legales:** Me aseguré de que los procesos judiciales se mantuvieran en curso y bajo control.
+3. **Elaboración de Documentos:** Aprendí a elaborar documentos legales precisos y bien fundamentados.
+4. **Trabajo en Equipo:** Colaboré estrechamente con Ruth y otros miembros del equipo, lo que me permitió entender la importancia de la comunicación y la colaboración en el ámbito jurídico.
 
-2. **Personalized Eco-Goals:**
+## Reflexión Personal
 
-- Users can set and track personalized eco-goals, such as reducing plastic usage, conserving water, or choosing eco-friendly transportation.
-- The app provides tips and suggestions to help users achieve their goals.
+Trabajar junto a Ruth Amalfi Ramírez Muñoz fue una experiencia enriquecedora. Pude aprender directamente de una abogada con amplia experiencia en Derecho Administrativo y adquirí valiosas lecciones sobre cómo aplicar la teoría legal en situaciones reales. Mi pasión por el Derecho se profundizó, y reafirmé mi compromiso de seguir desarrollando mi carrera jurídica con un enfoque en la justicia y el servicio a los demás.
 
-3. **Green Rewards Marketplace:**
+## Contacto
 
-- EcoPoints earned through challenges and sustainable actions can be redeemed in a virtual Green Rewards Marketplace.
-- The marketplace offers discounts on eco-friendly products, services, and even contributions to environmental causes.
+Si deseas saber más sobre mi experiencia o discutir cómo el Derecho y la tecnología pueden trabajar juntos, no dudes en contactarme. Estoy abierta a nuevas oportunidades y colaboraciones.
 
-4. **Community Hub:**
+---
 
-- A community feature allows users to connect, share their eco-friendly achievements, and inspire others.
-- Users can join local eco-groups, organize clean-up events, and collaborate on sustainability projects.
-
-5. **EcoEducator AI Assistant:**
-
-- An AI-powered assistant, EcoEducator, provides personalized eco-tips, facts, and information based on users' preferences and habits.
-- Users can chat with EcoEducator for instant advice on sustainable living.
-
-## Technology Stack
-
-- Frontend: React Native for cross-platform mobile app development.
-- Backend: Firebase for real-time data synchronization and user authentication.
-- Database: Firestore for scalable and flexible data storage.
-- AI Integration: Dialogflow for natural language processing and conversation with EcoEducator.
-
-## Outcome
-
-EcoBuddy has successfully created a community of environmentally conscious individuals who actively participate in sustainable living practices. The app not only educates and motivates users but also provides tangible rewards for their commitment to a greener lifestyle, fostering a positive impact on the environment.
-
-## Client Testimonial
-
-> We couldn't be happier with the results delivered by Ethan Donovan. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+_Construyamos juntos soluciones legales innovadoras y justas._

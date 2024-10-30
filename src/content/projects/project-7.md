@@ -1,62 +1,48 @@
 ---
-title: CryptoTrader - Cryptocurrency Portfolio Manager
-description: CryptoTrader Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios.
-publishDate: 'Jan 10 2024'
-isFeatured: true
+title: 'Asistente Jurídica en el Jurídico Jhordan López Jurado'
+description: Como Asistente Jurídica en el Jurídico Jhordan López Jurado, brindé apoyo en la representación judicial de entidades municipales y participé en la proyección de tutelas y demandas.
+publishDate: 'Jul 2019'
 seo:
   image:
-    src: 'project-7.jpg'
+    src: '/dayana-erazo-asistente-juridica.jpg'
+    alt: Asistente Jurídica Dayana Erazo
 ---
 
-![Project preview](/project-7.jpg)
+![Asistente Jurídica Dayana Erazo](/dayana-erazo-asistente-juridica.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Mi Rol como Asistente Jurídica en el Jurídico Jhordan López Jurado
 
-**Project Overview:**
-CryptoTrader Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios. By providing real-time market data, analytics, and portfolio tracking, the dashboard offers a seamless experience for users to monitor and enhance their cryptocurrency investments.
+**Julio 2019 – Diciembre 2019**
 
-## Objectives
+Durante mi tiempo como **asistente jurídica** en el **Jurídico Jhordan López Jurado**, tuve la oportunidad de contribuir de manera significativa en la representación judicial de entidades municipales. Esta experiencia fue valiosa para profundizar mis conocimientos en el ámbito del Derecho Administrativo y en el manejo de casos jurídicos.
 
-1. Develop a user-friendly and feature-rich dashboard that consolidates real-time data from various cryptocurrency exchanges.
-2. Provide tools for users to analyze market trends, track their portfolio performance, and make informed investment decisions.
-3. Create a secure and efficient platform that ensures users have a holistic view of their cryptocurrency holdings.
+## Responsabilidades y Logros
 
-## Features
+En mi rol como asistente jurídica, me encargué de las siguientes funciones:
 
-1. **Multi-Exchange Integration:**
+- **Apoyo en la representación judicial de entidades municipales:** Asistí en la preparación y gestión de casos relacionados con las entidades municipales, asegurando que se defendieran adecuadamente sus derechos e intereses en el ámbito judicial.
+- **Proyección de tutelas y derechos de petición:** Redacté tutelas y derechos de petición, garantizando que se presentaran de manera clara y fundamentada, lo que permitió una adecuada protección de los derechos de los solicitantes.
+- **Proyección de demandas en materia Contencioso Administrativo:** Colaboré en la elaboración de demandas en el área Contencioso Administrativo, aportando un enfoque crítico y meticuloso para asegurar la calidad de la documentación presentada.
+- **Revisión de estados judiciales:** Realicé revisiones periódicas de los estados judiciales de los procesos en curso, asegurando que se mantuviera un seguimiento adecuado y se cumplieran los plazos establecidos.
+- **Proyección de conceptos jurídicos:** Elaboré conceptos jurídicos que ayudaron a fundamentar las acciones legales y estrategias a seguir en cada caso, contribuyendo a la toma de decisiones informadas.
 
-- CryptoTrader Dashboard aggregates data from multiple cryptocurrency exchanges, allowing users to view their entire portfolio in one centralized location.
-- Real-time updates provide the latest market prices, trading volumes, and order book data.
+## Habilidades y Conocimientos
 
-2. **Portfolio Analytics:**
+Esta experiencia me permitió desarrollar habilidades clave en mi carrera profesional:
 
-- Users can analyze their portfolio's performance through interactive charts and graphs.
-- The dashboard offers insights into historical performance, asset allocation, and profit/loss over time.
+1. **Representación Judicial:** Aprendí a apoyar la representación judicial de entidades, entendiendo mejor el proceso y la importancia de una adecuada defensa.
+2. **Redacción Jurídica:** Mejoré mis habilidades en la redacción de tutelas, derechos de petición y demandas, lo que es esencial en la práctica jurídica.
+3. **Análisis Crítico:** Desarrollé un enfoque analítico para revisar estados judiciales y elaborar conceptos jurídicos, fortaleciendo mi capacidad de evaluación y argumentación.
+4. **Trabajo en Equipo:** Colaboré con otros profesionales del derecho, lo que me permitió aprender de sus experiencias y conocimientos, enriqueciendo mi formación.
 
-3. **Risk Management Tools:**
+## Reflexión Personal
 
-- Advanced risk management tools help users assess the volatility and potential risks associated with their cryptocurrency investments.
-- Users receive alerts for significant market fluctuations or changes in their portfolio value.
+Ser asistente jurídica en el Jurídico Jhordan López Jurado fue una etapa enriquecedora que me permitió aplicar mis conocimientos y habilidades en un entorno práctico. Esta experiencia no solo reforzó mi compromiso con la justicia, sino que también me brindó una valiosa perspectiva sobre el funcionamiento del sistema jurídico en el ámbito municipal.
 
-4. **Automated Transaction Tracking:**
+## Contacto
 
-- The dashboard automatically tracks and records users' cryptocurrency transactions, simplifying the process of updating and managing portfolios.
-- Users can categorize transactions, add notes, and maintain a comprehensive transaction history.
+Si deseas saber más sobre mi experiencia en el ámbito jurídico o sobre cómo puedo contribuir a la representación legal de entidades, estaré encantada de conversar. No dudes en ponerte en contacto para discutir posibles colaboraciones o asesorías legales.
 
-5. **News and Market Insights:**
+---
 
-- A dedicated section provides real-time news and market insights relevant to users' cryptocurrency holdings.
-- Users can stay informed about market trends, regulatory developments, and news affecting their investment decisions.
-
-## Technology Stack
-
-- Frontend: React for a responsive and interactive user interface.
-- Backend: Django for server-side logic and API integration.
-- Database: PostgreSQL for efficient storage and retrieval of portfolio and market data.
-- API Integration: Integration with cryptocurrency exchange APIs for real-time market data.
-
-## Outcome
-
-CryptoTrader Dashboard has become a trusted companion for cryptocurrency investors, offering a consolidated and user-friendly platform for managing their portfolios. The robust analytics, real-time market data, and risk management tools empower users to make informed decisions and navigate the dynamic world of cryptocurrency with confidence.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+_A través de mi experiencia jurídica, continúo comprometida en ofrecer soluciones efectivas y justas en el ejercicio del Derecho._

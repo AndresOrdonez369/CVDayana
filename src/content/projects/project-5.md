@@ -1,62 +1,42 @@
 ---
-title: 'PixelPerfect Art Gallery'
-description: PixelPerfect Art Gallery is an innovative online platform that transcends traditional art exhibition spaces.
-publishDate: 'Oct 25 2023'
-isFeatured: true
-seo:
-  image:
-    src: '/project-5.jpg'
+title: 'Asistente Jurídica en Jurídico Mario Barahona Hoyos'
+description: Como asistente jurídica en Jurídico Mario Barahona Hoyos, participé en la revisión de estados electrónicos, radicación de oficios y memoriales, así como en la proyección de demandas en Derecho privado.
+publishDate: 'Jul 2020'
+
 ---
 
-![Project preview](/project-5.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Mi Rol como Asistente Jurídica en Jurídico Mario Barahona Hoyos
 
-**Project Overview:**
-PixelPerfect Art Gallery is an innovative online platform that transcends traditional art exhibition spaces. This web application is dedicated to showcasing and celebrating pixel art in the form of Non-Fungible Tokens (NFTs), providing artists with a digital canvas to display their unique creations while ensuring secure ownership through blockchain technology.
+**Julio 2020 – Julio 2021**
 
-## Objectives
+Durante mi tiempo como **asistente jurídica** en **Jurídico Mario Barahona Hoyos**, tuve la oportunidad de apoyar en diversas tareas legales, desde la **revisión de estados electrónicos** hasta la **proyección de demandas en Derecho privado**. Esta experiencia me permitió aprender de cerca los procedimientos jurídicos y fortalecer mi capacidad para gestionar y organizar documentos legales.
 
-1. Create an immersive online gallery experience specifically tailored for pixel art enthusiasts and NFT collectors.
-2. Utilize blockchain technology to authenticate and secure ownership of digital artworks, ensuring a transparent and tamper-proof art marketplace.
-3. Foster a community of digital artists and art collectors, providing a platform for collaboration, appreciation, and exchange.
+## Responsabilidades y Logros
 
-## Features
+Como asistente jurídica, me encargué de las siguientes funciones:
 
-1. **NFT Art Exhibition:**
+- **Revisión de estados electrónicos:** Me aseguré de realizar un seguimiento detallado de los casos y actualizaciones en los estados judiciales, garantizando que se cumplieran los plazos y requerimientos procesales.
+- **Radicación de oficios y memoriales:** Participé en la elaboración y presentación de documentos procesales ante las autoridades correspondientes, asegurando que todas las comunicaciones legales se realizaran de manera oportuna.
+- **Proyección de demandas en materia de Derecho privado:** Colaboré en la redacción y estructuración de demandas en el ámbito del Derecho privado, ayudando en la creación de argumentos sólidos y bien fundamentados.
 
-- PixelPerfect features a curated exhibition of pixel art NFTs, showcasing a diverse range of styles, themes, and techniques.
-- Users can explore and appreciate the intricate details of each digital artwork in a visually stunning online gallery.
+## Habilidades y Conocimientos
 
-2. **Blockchain Authentication:**
+Este cargo me permitió desarrollar habilidades clave para mi carrera jurídica:
 
-- Each pixel art piece is tokenized as an NFT on a blockchain, ensuring authenticity, provenance, and secure ownership.
-- Users can view the blockchain records to verify the origin and history of the digital artworks.
+1. **Gestión Documental:** Aprendí a manejar de manera eficiente los estados electrónicos y la documentación asociada, asegurando un control preciso de cada etapa procesal.
+2. **Proyección de Demandas:** Desarrollé la capacidad de redactar demandas y otros escritos judiciales, aplicando un análisis detallado y riguroso de los hechos y las normas jurídicas.
+3. **Radicación y Notificaciones:** Mejoré mis habilidades en la radicación de documentos legales, asegurando que se cumplieran los plazos y formalidades exigidas por la normativa vigente.
+4. **Manejo de Derecho Privado:** Obtuve una comprensión más profunda del Derecho privado, aplicando este conocimiento a la proyección de demandas y análisis de casos.
 
-3. **Virtual Art Auctions:**
+## Reflexión Personal
 
-- PixelPerfect hosts virtual art auctions, allowing users to bid on and acquire exclusive pixel art NFTs.
-- The auction platform provides a dynamic and engaging environment for art enthusiasts and collectors.
+Ser asistente jurídica en Jurídico Mario Barahona Hoyos fue una experiencia invaluable que me brindó una comprensión sólida de los procesos judiciales y administrativos, así como de la importancia de la gestión documental y la precisión en la elaboración de demandas. Esta experiencia me permitió afinar mis habilidades en la revisión y radicación de documentos procesales, siempre manteniendo un enfoque meticuloso y profesional.
 
-4. **Community Collaboration Spaces:**
+## Contacto
 
-- Dedicated community spaces allow artists to connect, collaborate, and showcase their creative process.
-- Users can discuss techniques, share insights, and even collaborate on pixel art projects within the PixelPerfect community.
+Si deseas conocer más acerca de mi experiencia en Derecho privado o sobre cómo puedo apoyar en la gestión y elaboración de demandas, estaré encantada de conversar. No dudes en ponerte en contacto para explorar posibles colaboraciones o asesorías jurídicas.
 
-5. **Interactive Pixel Art Creation Workshop:**
+---
 
-- PixelPerfect provides a virtual workshop where users can create their own pixel art and potentially tokenize their creations as NFTs.
-- Artists can share their works with the community or submit them for consideration in future exhibitions.
-
-## Technology Stack
-
-- Frontend: Angular for a dynamic and responsive user interface.
-- Backend: Node.js for handling server-side logic and API integration.
-- Database: Ethereum blockchain for storing NFT ownership and transaction details.
-- Smart Contracts: Solidity for developing blockchain smart contracts.
-
-## Outcome
-
-PixelPerfect Art Gallery has successfully created a digital haven for pixel art enthusiasts, providing a secure and engaging platform for artists and collectors alike. The integration of blockchain technology ensures transparency and authenticity in the world of digital art, fostering a vibrant community that appreciates the uniqueness and creativity of pixel art NFTs.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+_A través de mi experiencia jurídica, sigo comprometida en ofrecer soluciones legales precisas y efectivas._

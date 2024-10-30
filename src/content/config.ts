@@ -6,8 +6,15 @@ const seoSchema = z.object({
     image: z
         .object({
             src: z.string(),
-            alt: z.string().optional()
+            alt: z.string().optional(),
+            size: z
+            .object({
+             width: z.number().optional(),
+             height: z.number().optional(),
+            })
+            .optional(),
         })
+        
         .optional(),
     pageType: z.enum(['website', 'article']).default('website')
 });
