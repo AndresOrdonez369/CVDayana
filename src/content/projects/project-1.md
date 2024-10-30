@@ -2,6 +2,8 @@
 title: 'Asistente Jurídica de Ruth Amalfi Ramírez Muñoz'
 description: Durante mi rol como asistente jurídica de Ruth Amalfi Ramírez Muñoz, brindé apoyo en la representación judicial del Departamento de Nariño y en la asistencia a audiencias en materia Contencioso Administrativo.
 publishDate: 'Feb 2024'
+startDatetime: 'Febrero 2024'
+endDatetime: 'Junio 2024'
 isFeatured: true
 ---
 

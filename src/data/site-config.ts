@@ -69,7 +69,7 @@ const siteConfig: SiteConfig = {
             href: '/about'
         },
         {
-            text: 'Contactos',
+            text: 'Contacto',
             href: '/contact'
         },
     ],

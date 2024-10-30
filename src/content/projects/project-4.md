@@ -1,8 +1,10 @@
 ---
 title: 'Abogada en CEHANI ESE'
 description: Como abogada en CEHANI ESE, participé en la elaboración de actas de liquidación y la organización de la base de datos de contratistas del Plan de Intervenciones Colectivas (PIC).
-publishDate: 'Nov 2021'
-
+publishDate: 'Febrero 2023'
+updateDate: 'March 2023'
+startDatetime: 'Noviembre 2021'
+endDatetime: 'Diciembre 2021'
 ---
 
 ## Mi Rol como Abogada en CEHANI ESE

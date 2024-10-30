@@ -1,7 +1,10 @@
 ---
 title: 'Apoyo Jurídico en CEHANI ESE'
 description: Durante mi rol de apoyo jurídico en CEHANI ESE, gestioné la elaboración de contratos de prestación de servicios, proyección de actas y organización de expedientes contractuales.
-publishDate: 'Mar 2022'
+publishDate: 'Febrero 2023'
+updateDate: 'March 2023'
+startDatetime: 'Marzo 2022'
+endDatetime: 'Agosto 2022'
 isFeatured: true
 
 ---

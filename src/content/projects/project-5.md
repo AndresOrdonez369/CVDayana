@@ -1,8 +1,10 @@
 ---
 title: 'Asistente Jurídica en Jurídico Mario Barahona Hoyos'
 description: Como asistente jurídica en Jurídico Mario Barahona Hoyos, participé en la revisión de estados electrónicos, radicación de oficios y memoriales, así como en la proyección de demandas en Derecho privado.
-publishDate: 'Jul 2020'
-
+publishDate: 'Febrero 2023'
+updateDate: 'March 2023'
+startDatetime: 'Julio 2020'
+endDatetime: 'Julio 2021'
 ---
 
 

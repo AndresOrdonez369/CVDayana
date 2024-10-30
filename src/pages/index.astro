@@ -33,12 +33,12 @@ const featuredProjects = projects.filter(({ data }: { data: { isFeatured: boolea
     {
         featuredPosts?.length > 0 && (
             <div class="mb-16 sm:mb-24">
-                <h2 class="mb-12 text-xl font-serif italic sm:mb-16 sm:text-2xl">Escritos</h2>
+                <h2 class="mb-12 text-xl font-serif italic sm:mb-16 sm:text-2xl">Blog e ideas</h2>
                 {featuredPosts.map((post: any) => (
                     <PostPreview post={post} class="mb-10 sm:mb-12" headingLevel="h3" />
                 ))}
                 <div class="mt-12 sm:mt-16">
-                    <Button href="/blog">View All Posts</Button>
+                    <Button href="/blog">Mirar todos los escritos</Button>
                 </div>
             </div>
         )

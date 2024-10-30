@@ -1,8 +1,10 @@
 ---
 title: ' Judicante en el Juzgado Quinto Administrativo del Circuito de Pasto'
 description: Como Judicante en el Juzgado Quinto Administrativo del Circuito de Pasto, realicé estudios de admisión de demandas, análisis de procesos judiciales y proyección de fallos de sentencias.
-publishDate: 'Ene 2020'
-
+publishDate: 'Febrero 2023'
+updateDate: 'March 2023'
+startDatetime: 'Enero 2020'
+endDatetime: 'Febrero 2021'
 ---
 
 

@@ -1,70 +1,61 @@
 ---
-title: Building an Impressive Front-End Developer Portfolio
-excerpt: In the competitive world of front-end development, a strong portfolio is your ticket to showcasing your skills, making a lasting impression on potential employers or clients, and advancing your career.
-publishDate: 'October 5 2023'
+title: El Conflicto Armado en Colombia Historia, Impacto y Esperanza de Paz
+excerpt: El conflicto armado en Colombia ha marcado profundamente su historia, dejando huellas en su sociedad, economía y cultura. Comprender sus causas y consecuencias es fundamental para construir un futuro en paz y reconciliación.
+publishDate: 'Oct 30 2024'
+isFeatured: true
 tags:
-  - Web
-  - Web development
+  - Conflicto Armado
+  - Colombia
 seo:
   image:
     src: '/post-2.jpg'
     alt: Half open laptop on a desk
 ---
 
-![Half open laptop on a desk](/post-2.jpg)
+**Note:** Este artículo explora el conflicto armado en Colombia y las complejidades que enfrentan tanto la sociedad como los procesos de paz para superar décadas de violencia.
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
 
-In the competitive world of front-end development, a strong portfolio is your ticket to showcasing your skills, making a lasting impression on potential employers or clients, and advancing your career. Your portfolio is your digital business card, and it should be a reflection of your talent, creativity, and expertise. In this post, we'll walk you through the steps to create an impressive front-end developer portfolio that will help you stand out in the crowd.
+![A person standing at the window](/post-2.jpg)
+## Causas del Conflicto Armado en Colombia
 
-## 1. Showcase a Diverse Range of Projects
+1. **Desigualdad social y económica:** Las disparidades de acceso a recursos, educación y oportunidades entre el campo y las ciudades han generado condiciones de vulnerabilidad, favoreciendo el surgimiento de grupos armados que buscan reivindicaciones sociales por medios violentos.
 
-Your portfolio should be a testament to your versatility. Include a variety of projects that demonstrate your skills in different areas of front-end development. Consider including projects like:
+2. **Distribución de tierras:** La disputa por el control y la propiedad de la tierra ha sido uno de los factores claves del conflicto. La concentración de tierras en manos de pocos propietarios ha provocado conflictos con campesinos y comunidades indígenas.
 
-- **Responsive Websites:** Showcase your ability to create websites that adapt seamlessly to various screen sizes and devices.
+3. **Presencia de grupos armados ilegales:** Grupos guerrilleros, como las FARC y el ELN, surgieron en un contexto de lucha ideológica y desigualdad, mientras que grupos paramilitares nacieron como respuesta a estos movimientos. Ambos bandos contribuyeron a la violencia prolongada en el país.
 
-- **Interactive Web Applications:** Feature web applications that engage users with dynamic features and functionalities.
+4. **Narcotráfico:** Desde los años 80, el narcotráfico se ha vinculado con el conflicto armado, aportando financiamiento a los grupos armados y promoviendo la violencia en las regiones donde operan los cultivos y laboratorios ilícitos.
 
-- **E-commerce Websites:** If you've worked on e-commerce sites, include them to demonstrate your expertise in handling complex web development tasks.
+> "La paz no es simplemente la ausencia de guerra, sino una forma de ser, de pensar y de actuar en armonía consigo mismo, con los demás y con el entorno." — Declaración de Cartagena, 1984.
 
-- **Open Source Contributions:** Highlight your involvement in open-source projects or contributions to online coding communities.
+## Consecuencias del Conflicto Armado en Colombia
 
-## 2. Highlight Your Coding Skills
+1. **Desplazamiento forzado:** Millones de colombianos han sido obligados a abandonar sus hogares debido a la violencia, convirtiendo a Colombia en uno de los países con más desplazados internos en el mundo.
 
-Your portfolio should provide a clear view of your coding proficiency. Consider the following:
+2. **Pérdida de vidas y familias desintegradas:** Las familias han sufrido pérdidas irreparables a causa de la violencia. Los secuestros, desapariciones y asesinatos han dejado una herida profunda en la sociedad colombiana.
 
-- **Clean and Organized Code:** Present your code in a clean and well-organized manner. Use proper indentation, comments, and coding standards.
+3. **Impacto económico:** El conflicto ha generado un retroceso económico considerable en regiones afectadas, dificultando el desarrollo y aumentando la pobreza en áreas rurales y urbanas.
 
-- **Use of Version Control:** Showcase your use of version control systems like Git and GitHub to demonstrate your collaboration and code management skills.
+4. **Deterioro del tejido social:** La desconfianza, el miedo y el rencor han afectado la cohesión social, dificultando la reconciliación y el trabajo conjunto entre comunidades y regiones.
 
-- **Code Samples:** Include snippets of code from your projects to give visitors an insight into your coding style and problem-solving abilities.
+5. **Afectación ambiental:** La guerra ha tenido efectos devastadores en los ecosistemas, incluyendo deforestación, contaminación de ríos y destrucción de la biodiversidad.
 
-## 3. Emphasize Responsive Design
+## El Camino hacia la Paz y la Reconciliación
 
-As a front-end developer, responsive design is paramount. Ensure that your portfolio itself is a shining example of responsive design. It should look and function flawlessly on a variety of devices, including desktops, tablets, and smartphones.
+1. **Acuerdos de paz:** La firma del Acuerdo de Paz en 2016 con las FARC representa un paso importante, aunque su implementación enfrenta desafíos. La justicia transicional y la reintegración de excombatientes son fundamentales para avanzar en este proceso.
 
-## 4. User Experience (UX) Matters
+2. **Justicia y reparación para las víctimas:** La creación de instituciones como la Jurisdicción Especial para la Paz (JEP) busca ofrecer justicia y reparación a las víctimas del conflicto, un proceso esencial para la reconciliación nacional.
 
-Front-end development is not just about writing code; it's about creating a great user experience. Explain your thought process behind the user interface (UI) and UX decisions you made in your projects. Discuss how you optimized performance and accessibility.
+3. **Desarrollo rural:** La inversión en el campo, la mejora de infraestructuras y el acceso a servicios básicos son cruciales para reducir la desigualdad y prevenir el surgimiento de nuevos conflictos.
 
-## 5. Document Your Projects
+4. **Educación para la paz:** Crear una cultura de paz desde la educación es esencial para superar el ciclo de violencia. La educación debe fomentar el diálogo, el respeto y la resolución pacífica de conflictos.
 
-Accompany each project with a detailed description. Explain the project's goals, your role in it, the technologies and tools you used, and any challenges you overcame. This documentation provides context and depth to your work.
+5. **Apoyo a la sociedad civil:** Organizaciones de derechos humanos y grupos de apoyo a víctimas desempeñan un papel clave en la construcción de memoria y la promoción de la paz, ayudando a fortalecer la resiliencia de las comunidades afectadas.
 
-## 6. Regularly Update Your Portfolio
+Si bien la paz completa es un proceso a largo plazo, cada paso hacia el entendimiento y la justicia marca un avance hacia una Colombia más unida y solidaria. La reconstrucción social y el reconocimiento de las víctimas son esenciales para evitar que el país repita los errores del pasado y asegurar un futuro de convivencia.
 
-A stagnant portfolio can give the impression of inactivity or lack of progress. Regularly update your portfolio with your latest work and projects. Remove outdated or less impressive work to keep your portfolio relevant and impactful.
 
-## 7. Test and Optimize Load Times
 
-Slow-loading websites can turn visitors away. Ensure your portfolio loads quickly by optimizing images and using proper techniques to minimize load times.
 
-## 8. Seek Feedback
 
-Before finalizing your portfolio, seek feedback from peers, mentors, or online communities. Constructive criticism can help you refine your portfolio and make it even more impressive.
 
-## 9. Personalize Your Portfolio
-
-Your portfolio is not just about your work; it's also about you. Add a personal touch by including an **"About Me"** section that tells your story, your passions, and what makes you unique as a front-end developer.
-
-Remember, your front-end developer portfolio is an ongoing project. Keep refining it, stay up-to-date with the latest trends, and let it evolve as your skills and experience grow. An impressive portfolio not only serves as a testament to your abilities but also opens doors to exciting opportunities in the world of front-end development.

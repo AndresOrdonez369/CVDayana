@@ -1,7 +1,10 @@
 ---
 title: 'Asistente Jurídica en el Jurídico Jhordan López Jurado'
 description: Como Asistente Jurídica en el Jurídico Jhordan López Jurado, brindé apoyo en la representación judicial de entidades municipales y participé en la proyección de tutelas y demandas.
-publishDate: 'Jul 2019'
+publishDate: 'Febrero 2023'
+updateDate: 'March 2023'
+startDatetime: 'Julio 2019'
+endDatetime: 'Diciembre 2019'
 seo:
   image:
     src: '/dayana-erazo-asistente-juridica.jpg'

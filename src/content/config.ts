@@ -43,6 +43,9 @@ const projects = defineCollection({
         title: z.string(),
         description: z.string().optional(),
         publishDate: z.coerce.date(),
+        updatedDate: z.coerce.date().optional(),
+        startDatetime: z.string().optional(),
+        endDatetime: z.string().optional(),
         isFeatured: z.boolean().default(false),
         seo: seoSchema.optional()
     })

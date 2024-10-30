@@ -1,7 +1,10 @@
 ---
 title: 'Citadora en el Juzgado Promiscuo Municipal de Buesaco'
 description: Durante mi rol como citadora en el Juzgado Promiscuo Municipal de Buesaco, fui responsable de la elaboración de autos interlocutorios, proyección de fallos y notificaciones judiciales.
-publishDate: 'Feb 2023'
+publishDate: 'Febrero 2023'
+updateDate: 'March 2023'
+startDatetime: 'Febrero 2023'
+endDatetime: 'Marzo 2023'
 isFeatured: true
 
 ---

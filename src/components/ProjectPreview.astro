@@ -1,11 +1,12 @@
 ---
 import { type CollectionEntry } from 'astro:content';
 import ArrowRight from '../icons/ArrowRight.astro';
+import FormattedDate from './FormattedDate.astro';
 
 type Props = { project: CollectionEntry<'projects'>; class?: string; headingLevel?: 'h2' | 'h3' };
 
 const { project, class: className, headingLevel = 'h2' } = Astro.props;
-const { title, description } = project.data;
+const { title, description, startDatetime, endDatetime, updatedDate} = project.data;
 const TitleTag = headingLevel;
 ---
 
@@ -16,6 +17,22 @@ const TitleTag = headingLevel;
         >
             {title}
         </TitleTag>
+        <div class="mt-1 text-sm leading-normal">
+            <span>
+                {startDatetime &&  <span class="bg-transparent text-gray-900 px-2 py-1 rounded shadow-sm dark:text-white">{startDatetime}</span>} - {endDatetime && <span class="bg-transparent text-gray-900 px-2 py-1 rounded shadow-sm dark:text-white">{endDatetime}</span>}
+            </span>
+            {
+                updatedDate && (
+                    <>
+                        {' '}
+                        <span>
+                            (Actualizado el <FormattedDate date={updatedDate} />)
+                        </span>
+                    </>
+                )
+            }
+        </div>
+        
         {description && <div class="mt-1 text-sm leading-normal">{description}</div>}
     </div>
     <div class="hidden font-serif italic opacity-0 transition group-hover:opacity-100 sm:inline-flex sm:gap-1 sm:items-center sm:shrink-0">
